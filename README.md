@@ -1,4 +1,4 @@
-# bunch-test
+# websearch-ui-test
 This project shows the functionality of the bunch Help page and covers a series of tests cases on the reasoning behind the tests gathered
 
 ### Tests Coverage
